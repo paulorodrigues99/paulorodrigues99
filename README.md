@@ -3,7 +3,7 @@
 <!--
 **paulorodrigues99/paulorodrigues99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## [Paulo Rodrigues](https://github.com/paulorodrigues99)
+## [Paulo Rodrigues](https://www.linkedin.com/in/paulorodrigues99/)
 
 - 🔭 I’m currently working on Insole
 - 💙 In love with JavaScript
