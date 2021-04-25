@@ -5,7 +5,6 @@
 
 ## [Paulo Rodrigues](https://www.linkedin.com/in/paulorodrigues99/)
 
-- 🔭 I’m currently working on Insole
 - 💙 In love with JavaScript
 - 🌱 I’m currently learning NextJs
 - 👯 I’m looking to collaborate on OpenSource projects with messaging challenge
